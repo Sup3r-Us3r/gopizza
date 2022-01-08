@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "561884930947",
+    "project_id": "gopizzareactnative",
+    "storage_bucket": "gopizzareactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561884930947:android:4e71e81629765da4940cb6",
+        "android_client_info": {
+          "package_name": "com.gopizzareactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561884930947-59ot0e7mqot30jpapcpuq9fua7f5rbn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gopizzareactnative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "561884930947-fb5ngobglv4im4kvjpj1in0mfe3hq39e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZP0arP6UuLhD3KM9xsAZSPZMi9zZBbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561884930947-fb5ngobglv4im4kvjpj1in0mfe3hq39e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
